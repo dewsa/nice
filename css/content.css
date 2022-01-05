@@ -10,10 +10,13 @@ section:target {
   display: block;
 }
 h1.content-head{
-  font-size:40px;
+  font-size:20px;
   text-align:center;
   margin-top:-85px;
-  transform: rotate(-3deg);
+  transform: rotate(-5deg);
+  color: #fff;
+  opacity: .2;	
+  text-shadow: 2px 2px 5px #000;
 }
 .in-content{
   display:block;
